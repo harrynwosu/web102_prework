@@ -2,7 +2,7 @@
 
 Submitted by: Harold Nwosu
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+GoFundGames is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 4 hours spent in total
 
