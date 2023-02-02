@@ -27,6 +27,7 @@ Here's a walkthrough of implemented features:
 Link: https://imgur.com/a/Zg16tZf
 
 <!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ScreenToGIF
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
